@@ -1,44 +1,82 @@
-## EDUCATION
+Shiman Yuan
+============
 
-**Santa Clara University**,School of Engineering, Santa Clara, CA(April. 2018 – Dec.2020)
-  -M.S. Computer Science and Engineering (GPA 3.7)
-**University of the Arts London**, London, UK(Jun.2015 – Sep.2016)
-  -MA: Business Management (GPA 3.5) 
-**Wuhan Textile University**, School of Engineering, Wuhan, China(Sep. 2011 – Jun. 2015)
-  -B.Eng. in Engineering. (GPA 3.5) 
-  
-## TECHNICAL SKILLS
+-------------------     ----------------------------
+Santa Clara, CA 
+syuan2@scu.edu
++1 551-208-8763
+-------------------     ----------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Education
+---------
 
-### Markdown
+April. 2018 – Dec.2020 
+:   **M.S. Computer Science and Engineering**; Santa Clara University, Santa Clara, CA,(GPA 3.7)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    *Relevant Courses: Mobile App Development, Computer Networks, Database Systems, Analysis of Algorithms, Image & Video Compression, Advanced Web Programming, Computer Architecture, Applied Mathematics, Engineering Management Skills, etc.*
+Sep. 2011 – Jun. 2015
+:   **MA. Business Management **; University of the Arts London, London, UK,(GPA 3.5)
+Jun.2015 – Sep.2016
+:   **B.Eng. Engineering**; School of Engineering, Wuhan, China, (GPA 3.7)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Technical Skills
+----------
+* Programming Language:Java, C, JavaScript, Ruby, HTML, CSS, SQL
+* Mobile Application development skill: Android
+* Framework: Spring Boot, React Routers, libGDX, Redux, JEST, Ruby on Rails
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Technical Experience
+--------------------
 
-**Bold** and _Italic_ and `Code` text
+My Cool Side Project
+:   For items which don't have a clear time ordering, a definition
+    list can be used to have named items.
 
-[Link](url) and ![Image](src)
-```
+    * These items can also contain lists, but you need to mind the
+      indentation levels in the markdown source.
+    * Second item.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Open Source
+:   List open source contributions here, perhaps placing emphasis on
+    the project names, for example the **Linux Kernel**, where you
+    implemented multithreading over a long weekend, or **node.js**
+    (with [link](http://nodejs.org)) which was actually totally
+    your idea...
 
-### Jekyll Themes
+Programming Languages
+:   **first-lang:** Here, we have an itemization, where we only want
+    to add descriptions to the first few items, but still want to
+    mention some others together at the end. A format that works well
+    here is a description list where the first few items have their
+    first word emphasized, and the last item contains the final few
+    emphasized terms. Notice the reasonably nice page break in the pdf
+    version, which wouldn't happen if we generated the pdf via html.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mandy993/ShimanYuan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+:   **second-lang:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file). 
 
-### Support or Contact
+:   **obscure-but-impressive-lang:** We both know this one's pushing
+    it.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+
+[ref]: https://github.com/githubuser/superlongprojectname
+
+Extra Section, Call it Whatever You Want
+----------------------------------------
+
+* Human Languages:
+
+     * English (native speaker)
+     * ???
+     * This is what a nested list looks like.
+
+* Random tidbit
+
+* Other sort of impressive-sounding thing you did
+view rawresume hosted with ❤ by GitHub
+However, in the above approach the generation
