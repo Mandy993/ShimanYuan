@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## EDUCATION
 
-You can use the [editor on GitHub](https://github.com/Mandy993/ShimanYuan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Santa Clara University**,School of Engineering, Santa Clara, CA(April. 2018 – Dec.2020)
+  -M.S. Computer Science and Engineering (GPA 3.7)
+**University of the Arts London**, London, UK(Jun.2015 – Sep.2016)
+  -MA: Business Management (GPA 3.5) 
+**Wuhan Textile University**, School of Engineering, Wuhan, China(Sep. 2011 – Jun. 2015)
+  -B.Eng. in Engineering. (GPA 3.5) 
+  
+## TECHNICAL SKILLS
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
