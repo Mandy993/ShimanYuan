@@ -10,7 +10,7 @@ Santa Clara, CA | syuan2@scu.edu| (+1) 551-208-8763
 Education
 ---------
 
-April. 2018 – Dec. 2020 
+April. 2018 – Sep. 2020 
 :   **M.S. Computer Science and Engineering**  Santa Clara University, Santa Clara, CA(GPA 3.7)
     *Relevant Courses: Mobile App Development, Computer Networks, Database Systems, Analysis of Algorithms, Image & Video Compression, Advanced Web Programming, Computer Architecture, Applied Mathematics, Engineering Management Skills, etc.*
     
