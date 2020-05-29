@@ -10,22 +10,22 @@ Santa Clara, CA | syuan2@scu.edu| (+1) 551-208-8763
 Education
 ---------
 
-April. 2018 – Dec.2020 
-:   **M.S. Computer Science and Engineering**; Santa Clara University, Santa Clara, CA(GPA 3.7)
+April. 2018 – Dec. 2020 
+:   **M.S. Computer Science and Engineering**  Santa Clara University, Santa Clara, CA(GPA 3.7)
     *Relevant Courses: Mobile App Development, Computer Networks, Database Systems, Analysis of Algorithms, Image & Video Compression, Advanced Web Programming, Computer Architecture, Applied Mathematics, Engineering Management Skills, etc.*
     
 Sep. 2011 – Jun. 2015
-:   **MA: Business Management**; University of the Arts London, London, UK(GPA 3.5)
+:   **MA: Business Management**  University of the Arts London, London, UK(GPA 3.5)
 
-Jun.2015 – Sep.2016
-:   **B.Eng. Engineering**; School of Engineering, Wuhan, China(GPA 3.7)
+Jun. 2015 – Sep. 2016
+:   **B.Eng. Engineering**  School of Engineering, Wuhan, China(GPA 3.7)
 
 
 Technical Skills
 ----------
-* Programming Language: Java, C, JavaScript, Ruby, HTML, CSS, SQL
-* Mobile Application development skill: Android
-* Framework: Spring Boot, React Routers, libGDX, Redux, JEST, Ruby on Rails
+* Programming Language:  Java, C, JavaScript, Ruby, HTML, CSS, SQL
+* Mobile Application development skill:  Android
+* Framework:  Spring Boot, React Routers, libGDX, Redux, JEST, Ruby on Rails
 
 
 Experience
