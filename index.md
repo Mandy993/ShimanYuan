@@ -4,7 +4,11 @@ Shiman Yuan
 ------------------- 
 
 Santa Clara, CA 
+
+
 syuan2@scu.edu
+
+
 +1 551-208-8763
 
 -------------------
