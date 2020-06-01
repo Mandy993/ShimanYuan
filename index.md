@@ -31,6 +31,8 @@ Technical Skills
 
 Experience
 --------------------
+ **Kohl's** Softwarer Engineer Intern (June. 2020 – Aug. 2019) 
+ 
  **Decathlon** Backend Engineer Intern (June. 2019 – Sep. 2019) 
  * Responsible for the project of developing a new sales platform on the WeChat applet side.
  * Added new features and maintained existing features of APIs based on customer requirements.
