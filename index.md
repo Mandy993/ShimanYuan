@@ -31,9 +31,9 @@ Technical Skills
 Professional Experience
 --------------------
  **Kohl's** Software Engineer Intern (June. 2020 – present) 
- *Contribute immensely to the successful execution of the marketplace product project through an e-commerce
+ * Contribute immensely to the successful execution of the marketplace product project through an e-commerce
   platform.
- *Function with the development team on analysis, design, development and implementation of software that
+ * Function with the development team on analysis, design, development and implementation of software that
   provides robust technical infrastructure and software applications used by business units.
   
  **Decathlon** Backend Engineer Intern (June. 2019 – Sep. 2019) 
