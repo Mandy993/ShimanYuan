@@ -6,10 +6,10 @@ Shiman Yuan
 
 Santa Clara, CA | syuan2@scu.edu| (+1) 551-208-8763
 
--------------------
+--------------------
 
 Education
----------
+---------------------
 
 April. 2018 – Sep. 2020 
 :   **M.S. Computer Science and Engineering**  Santa Clara University, Santa Clara, CA(GPA 3.7)
@@ -23,46 +23,57 @@ Jun. 2015 – Sep. 2016
 
 
 Technical Skills
-----------
-* Programming Language:  Java, C, JavaScript, Ruby, HTML, CSS, SQL
-* Mobile Application development skill:  Android
-* Framework:  Spring Boot, React Routers, libGDX, Redux, JEST, Ruby on Rails
-
-
-Experience
 --------------------
- **Kohl's** Softwarer Engineer Intern (June. 2020 – present) 
- 
+* Programming Language:  Java, C, JavaScript, SQL, Ruby, HTML, CSS
+* Tool & Framework:  Android, MongoDB, Kafka, Ruby on Rails, Spring Boot, Ruby on Rails, React Routers, Redux, JEST
+
+
+Professional Experience
+--------------------
+ **Kohl's** Software Engineer Intern (June. 2020 – present) 
+ *Contribute immensely to the successful execution of the marketplace product project through an e-commerce
+  platform.
+ *Function with the development team on analysis, design, development and implementation of software that
+  provides robust technical infrastructure and software applications used by business units.
+  
  **Decathlon** Backend Engineer Intern (June. 2019 – Sep. 2019) 
- * Responsible for the project of developing a new sales platform on the WeChat applet side.
- * Added new features and maintained existing features of APIs based on customer requirements.
- * Implemented technological solutions to improve the end-user experience, through changes to API platform.
- * Participated in discussions with the development team about technical challenges; plan and apply scalable solutions.
+ * Executed and managed the project focused on the development of a new sales platform on the WeChat applet side.
+ * Reputed for expertise in adding new app features while maintaining existing features of APIs based on customer
+   requirements.
+ * Recognized or stellar record in changing the API platform for improving the end-user experience through the
+   implementation of multiple technological solutions.
+ * Contributed to future technical challenges, strategic planning and implementation of scalable solutions.
 
  
 Academic Projects
 --------------------
  **Buddy Trace**  *Android Mobile App*
- * Implement the register/log in functionality using Firebase.
- * Designed table schema of user info, group, and encapsulated those objects into Java class.
- * Implemented functionality and UI that allowed user to organize events among friends and manage groups.
- * Displayed real-time location of event’s participants on map using Google map API to enable location sharing function.
- 
- **IMDB Movie Search System**  *Database System App*
- * Designed the conceptual schema for the data object in the system using ER Data model.
- * Converted the ER schema to table in Oracle database and used SQL to export the movie dataset offered by GroupLeans research group.
- * Implemented the UI that allow users to easily specify "what kind of movies they want to search".
- * Implemented the business logic in Java to convert user's query to SQL and extract the info from database.
- * Implemented the UI to friendly show the search results to users.
+ * Demonstrated mastery in utilizing Firebase for initiating the register/log in functionality.
+ * Leveraged expertise in designing and encapsulated objects from table schema of user info and group into a java
+   class.
+ * Established a platform that allowed the user to organize events among friends and manage groups through
+   implementing functionality and UI.
+ * Employed the use of Google map API for enabling location sharing function while displaying a real-time location
+   of an event’s participants.
+   
+ **IMDB Movie Search System**  *Oracle Database System App*
+ * Excelled in using an ER Data model for designing the conceptual schema for the data object.
+ * Piloted the conversion of the ER schema to table in Oracle database and also exported the movie dataset offered by
+   GroupLeans group using SQL.
+ * Exceeded expectations in converting user's queries to SQL using the business logic in Java as well as extracting the
+   info from the database and displaying search results on a user-friendly user interface.
  
  **Online Store Application**  *Ruby on Rails Web App* 
- * Created two views and styled the layout for customers to browser and purchase and for shop owners to manage products info.
- * Designed the table schema to manage the relationships between shop cart and product.
- * Added functionality for shoppers to add products (with AJAX), manage shopping cart and check out.
- * Added interface to create admin users (shop owners) and authenticate them to check and manage the orders.
+ * Managed the relationships between shop cart and product using a well-designed table schema.
+ * Utilized AJAX for initiating a functionality for shoppers to add products, manage the shopping carts, and also
+   check out.
+ * Introduced a layout to create, validate, and verify the authenticity of admin users, allowing these shop owners to
+   check and manage the orders.
+
 
  **Expense Manager**  *React Web App*
- * Implemented a web app based on React Router which can be used to record users’ spending history, and also offer. searching function based on data range without need to refresh page.
- * Used Redux to share the data among different components and made data propagate correctly.
- * Designed table schema of user info and used Firebase as database for storing.
- * Verified application function with test framework JEST, ensured core code test coverage rate was great.
+ * Spearheaded accurate data propagation using Redux for dispersing data across multiple components.
+ * Masterminded the utilization of Firebase as a database storage system in designing a table schema of the user.
+ * Developed the search functionality based on data range without having to refresh the page using the React Router.
+ * Optimized the rate of core code test coverage and also used the test framework JEST for verifying the application’s
+   functionality.
